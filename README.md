@@ -106,6 +106,6 @@ spotify-data-analysis/
 
 ## 👤 Author
 
-**Your Name**
-- LinkedIn: linkedin.com/in/yourprofile
-- GitHub: github.com/yourusername
+Dhamodharan
+- LinkedIn: linkedin.com/in/dhamodharam06
+- GitHub: github.com/mrl622
